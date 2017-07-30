@@ -1,7 +1,17 @@
 body {
-	
+	background: #282E3A;
+	font-family: tahoma;
 }
 
-#clock {
-	margin-top: 60px;
+h1 {
+	color: #fff;
+	text-align: center;
+	font-size: 74px;
+	letter-spacing: 10px;
+}
+
+#clock{
+	max-width: 620px;
+	height: 116px;
+	margin: 70px auto;
 }
